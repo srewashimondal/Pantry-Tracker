@@ -1,3 +1,5 @@
+Welcome to Pantry Tracker, a pantry management application using Next.js, Material UI, and Firebase. This pantry management application allows you to easily manage your inventory. With Pantry Tracker, you can add and remove items from your pantry, as well as adjust quantities as needed. Whether you're stocking up or using ingredients, our app keeps your pantry organized and up-to-date with just a few clicks.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
